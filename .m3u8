@@ -1,60 +1,271 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 01 - BRI LIGA 1
 http://golive.yn.lt/live/liga1/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 02 - BRI LIGA 1
 http://golive.yn.lt/live/liga1/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 03 - LIGA 2 ID
 http://golive.yn.lt/live/liga2/07.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 04 - LIGA 2 ID
 http://golive.yn.lt/live/liga2/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 05 - MOTOGP
 http://syarman.xyz/live/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 06 - MOTO GP
 http://syarman.xyz/live/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 07 - UEFA NATION LEAGUE 01
 http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/22015
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 08 - UEFA NATION LEAGUE 02
 http://golive.yn.lt/live/unl/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 09 - UEFA NATION LEAGUE 03
 http://golive.yn.lt/live/unl/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 10 - UEFA NATION LEAGUE 04
 http://server.sibfungold.info:8080/live/naimnaim/kamalnaimQX/281.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 11 - FRIENDLY MATCH 01
 http://golive.yn.lt/live/friendly/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 12 - FRIENDLY MATCH 02
 http://golive.yn.lt/live/friendly/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 13 - FRIENDLY MATCH 03
 http://golive.yn.lt/live/friendly/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 14 - FRIENDLY MATCH 04
 http://golive.yn.lt/live/friendly/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 15 - FRIENDLY MATCH 05
 http://golive.yn.lt/live/friendly/10.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 16 - AFC U17 01
 http://golive.yn.lt/live/afc/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 17 - AFC U17 02
 http://golive.yn.lt/live/afc/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 18 - AFC U17 03
 http://golive.yn.lt/live/afc/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 19 - Liga Inggris 01
 http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/4699
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 20 - Liga Inggris 02
 http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/53531
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-streaming-5571799-4665634.png" group-title="LIVE EVENT SPORTS", LIVE EVENT 21 - Liga Inggris 03
 http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/52299
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png" group-title="SPORTS", NOVA SPORT 1 HD
 http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/52218
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png" group-title="SPORTS", NOVA SPORT 2 HD
 http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/52219
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png" group-title="SPORTS", NOVA SPORT 3 HD
 http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/52220
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png" group-title="SPORTS", NOVA SPORT 4 HD
 http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/52221
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png" group-title="SPORTS", NOVA SPORT 5 HD
 http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/52222
+
+#EXTINF:-1 tvg-logo="http://logofun.ddns.net:25461/logo/Ssport 3.jpg" group-title="SPORTS", RMC Sport 03 HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/46712
+
+#EXTINF:-1 tvg-logo="http://logofun.ddns.net:25461/logo/SFR-Sport-1.jpg" group-title="SPORTS", RMC Sport 01 HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3720
+
+#EXTINF:-1 tvg-logo="http://logofun.ddns.net:25461/logo/ssport 2.jpg" group-title="SPORTS", RMC Sport 02 HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/46711
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC Story HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/47752
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC Sport 01 FullHD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/2252
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC Sport 02 FHD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/2103
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC Sport 03 FullHD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/2279
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC Sport 04 HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/50383
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC SPORT 04 FullHD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/50384
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC ACCESS SPORT 01 HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/51267
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC ACCESS SPORT 02 HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/51268
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC SPORT LIVE 5
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/51276
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC SPORT LIVE 6
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/51275
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC SPORT LIVE 7
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/51274
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC SPORT LIVE 8
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/51273
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC SPORT LIVE 9
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/51272
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC SPORT LIVE 10
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/51271
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC SPORT LIVE 11
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/51270
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC SPORT LIVE 12
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/51269
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC Story H265
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/52784
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC Decouverte FullHD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/52783
+
+#EXTINF:-1 tvg-logo="https://apsachieveonline.org/in/wp-content/uploads/2019/09/RMC-Sport-bagaimana-cara-berlangganan-saluran-di-Orange-Free-Bouygues.jpg" group-title="SPORTS", RMC Decouvert HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/4553
+
+#EXTINF:-1 tvg-logo="https://adrianvilas.files.wordpress.com/2016/11/bt-sport-logo.jpg" group-title="SPORTS", BT Sport 1
 http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/52241
+
+#EXTINF:-1 tvg-logo="https://adrianvilas.files.wordpress.com/2016/11/bt-sport-logo.jpg" group-title="SPORTS", BT Sport 2
 http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/52240
+
+#EXTINF:-1 tvg-logo="https://adrianvilas.files.wordpress.com/2016/11/bt-sport-logo.jpg" group-title="SPORTS", BT Sport 3
 http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/52239
+
+#EXTINF:-1 tvg-logo="https://adrianvilas.files.wordpress.com/2016/11/bt-sport-logo.jpg" group-title="SPORTS", BT Sport ESPN HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/255
+
+#EXTINF:-1 tvg-logo="https://adrianvilas.files.wordpress.com/2016/11/bt-sport-logo.jpg" group-title="SPORTS", BT Sport Extra 1
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/253
+
+#EXTINF:-1 tvg-logo="https://adrianvilas.files.wordpress.com/2016/11/bt-sport-logo.jpg" group-title="SPORTS", BT Sport Extra 2
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3603
+
+#EXTINF:-1 tvg-logo="https://adrianvilas.files.wordpress.com/2016/11/bt-sport-logo.jpg" group-title="SPORTS", BT Sport Extra 3
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3604
+
+#EXTINF:-1 tvg-logo="https://adrianvilas.files.wordpress.com/2016/11/bt-sport-logo.jpg" group-title="SPORTS", BT Sport Extra 4
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3605
+
+#EXTINF:-1 tvg-logo="https://adrianvilas.files.wordpress.com/2016/11/bt-sport-logo.jpg" group-title="SPORTS", BT Sport 3 HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/52239
+
+#EXTINF:-1 tvg-logo="https://adrianvilas.files.wordpress.com/2016/11/bt-sport-logo.jpg" group-title="SPORTS", BT Sport 2 HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/52240
+
+#EXTINF:-1 tvg-logo="https://adrianvilas.files.wordpress.com/2016/11/bt-sport-logo.jpg" group-title="SPORTS", BT Sport 1 HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/52241
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAw2mWsEpaI4qDh_Q8IF2jTgm2CQLXNRR4_1rg=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPORTS", Barca TV
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/48659.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="SPORTS", Fenerbahce TV
+http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="SPORTS", Galatasaray TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4CPFHlX.png" group-title="SPORTS", Persija TV
+https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vRhoIBG.png" group-title="SPORTS", Porto Canal
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2XCRmO.png" group-title="SPORTS", Sporting TV
+http://45.92.69.72:8001/play/a02n
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS", MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="SPORTS", Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+
+#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="SPORTS", TVRI Sports HD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="SPORTS", MNC Sports 1
+https://stream-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="SPORTS", MNC Sports 2
+https://stream-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="SPORTS", MNC Sports 3
+https://stream-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" group-title="SPORTS", Soccer Channel
+https://stream-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fightsport_small.png" group-title="SPORTS", Fight Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="SPORTS", Fight Sports
+https://stream-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.15" group-title="SPORTS", beIN 1 ID
+https://stream-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.15" group-title="SPORTS", beIN 3 ID
+https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN 1 US
+https://ad2017.vhls.ru.com/lb/premium44/index.m3u8?|referer=https://widevine.licenses4.me/&User -agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="SPORTS", ESPN 2 US
+https://ad2017.vhls.ru.com/lb/premium45/index.m3u8?|referer=https://widevine.licenses4.me/&User -agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="SPORTS", ESPN Deportes
+https://ad2017.vhls.ru.com/lb/premium375/index.m3u8?|referer=https://widevine.licenses4.me/&User -agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png" group-title="SPORTS", ESPNU
+http://89.187.175.143:80/3044/mpegts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="SPORTS", FS1
+https://ad2017.vhls.ru.com/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User -agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-2-us.png" group-title="SPORTS", FS2
+http://89.187.175.143:80/3056/mpegts
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/8-80082_nuvola-usa-flag-usa-wavy-flag-png.png" group-title="SPORTS", USA Network
+http://89.187.175.143:80/3025/mpegts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="SPORTS", MLB Network
+https://ad2017.vhls.ru.com/lb/premium399/index.m3u8?|referer=https://widevine.licenses4.me/&User -agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
+http://103.22.181.150:8095/nbatv/mpegts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="SPORTS", NFL Network
+https://ad2017.vhls.ru.com/lb/premium405/index.m3u8?|referer=https://widevine.licenses4.me/&User -agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="SPORTS", TUDN USA
+https://ad2017.vhls.ru.com/lb/premium66/index.m3u8?|referer=https://widevine.licenses4.me/&User -agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SPORTS", DAZN 1
+https://ad2017.vhls.ru.com/lb/premium426/index.m3u8?|referer=https://widevine.licenses4.me/&User -agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="SPORTS", DAZN 2
+https://ad2017.vhls.ru.com/lb/premium427/index.m3u8?|referer=https://widevine.licenses4.me/&User -agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="SPORTS", sportdigital
+https://ad2017.vhls.ru.com/lb/premium571/index.m3u8?|referer=https://widevine
